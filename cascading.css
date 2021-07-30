@@ -563,9 +563,9 @@ font-family: sans-serif;
     border-radius: 4px;
     transition: 0.5s ease;
 }
-.product_services .more_services{
+.products_services .more_services{
     padding:25px;
 }
-.product_services .more_services{
+.products_services .more_services p{
     text-align:center;
 }
