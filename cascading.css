@@ -567,3 +567,16 @@ font-family: sans-serif;
 .products_services .more_services p{
     text-align:center;
 }
+.privacy{
+    padding:20px;
+}
+.privacy h2{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.privacy h3{
+    font-family: sans-serif;
+}
+    
+    
