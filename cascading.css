@@ -568,7 +568,8 @@ font-family: sans-serif;
     text-align:center;
 }
 .privacy{
-    padding:20px;
+    padding:30px;
+    margin-top:30px;
 }
 .privacy h2{
     font-size: 40px;
