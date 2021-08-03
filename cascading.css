@@ -583,6 +583,7 @@ font-family: sans-serif;
     margin_top:-10%;
     display:flex;
     padding:50px;
+    padding-top:100px;
 }
 .blogs .blogs_content img{
     height:650px;
