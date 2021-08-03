@@ -579,9 +579,9 @@ font-family: sans-serif;
 .privacy h3{
     font-family: sans-serif;
 }
-.blogs .blogs_content{
-    height:660px;
-    width:500px;
+.blogs .blogs_content img{
+    height:350px;
+    width:250px;
 }
     
     
