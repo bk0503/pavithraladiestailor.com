@@ -622,6 +622,21 @@ font-family: sans-serif;
         font-size: 20px;
         font-family: cosmic,sans-serif;
 }
+.termsofuse{
+    padding:30px;
+    margin-top:75px;
+}
+.termsofuse termsofuse_content h2{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.termsofuse termsofuse_content h3{
+    font-family: sans-serif;
+}
+.termsofuse termsofuse_content p{
+    font-family: sans-serif;
+}
     
     
     
