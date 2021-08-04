@@ -624,9 +624,9 @@ font-family: sans-serif;
 }
 .termsofuse{
     margin-top:75px;
+     padding:30px;
 }
 .termsofuse termsofuse_content h2{
-    padding:30px;
     font-size: 40px;
     font-family: sans-serif;
     text-align: center;
