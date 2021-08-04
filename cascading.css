@@ -579,16 +579,23 @@ font-family: sans-serif;
 .privacy h3{
     font-family: sans-serif;
 }
-.blogs .blogs_content{
-    margin_top:-10%;
+.blogs{
     display:flex;
+}
+.blogs .blogs_content{
+    margin_top:-6%;
     padding:50px;
     padding-top:100px;
 }
 .blogs .blogs_content img{
-    height:650px;
+    height:700px;
     width:500px;
     padding-top:75px;
 }
+.blogs .blogs_content_para{
+    font-family: sans-serif;
+     font-size: 20px;
+}
+    
     
     
