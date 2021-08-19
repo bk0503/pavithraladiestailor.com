@@ -789,9 +789,6 @@ font-family: sans-serif;
     border-radius: 4px;
     transition: 0.5s ease;
 }
-
-
-
 .products_blouse .product_blouse2 .product_container_blouse{
     display: flex;
     margin-left: 5%;
@@ -866,10 +863,6 @@ font-family: sans-serif;
         border-radius: 4px;
         transition: 0.5s ease;
     }
-    
-
-
-
     .products_chudidars{
         margin-top: 78px;
         padding-bottom: -25px;
@@ -953,10 +946,7 @@ font-family: sans-serif;
        border-right:2px solid lightgreen;
         border-radius: 4px;
         transition: 0.5s ease;
-    }
-    
-    
-    
+}
     .products_chudidars .product_chudidars2 .product_container_chudidars{
         display: flex;
         margin-left: 5%;
@@ -1031,13 +1021,6 @@ font-family: sans-serif;
             border-radius: 4px;
             transition: 0.5s ease;
         }
-
-
-
-
-
-
-
         .products_langavoni{
             margin-top: 78px;
             padding-bottom: -25px;
@@ -1122,9 +1105,6 @@ font-family: sans-serif;
             border-radius: 4px;
             transition: 0.5s ease;
         }
-        
-        
-        
         .products_langavoni .product_langavoni2 .product_container_langavoni{
             display: flex;
             margin-left: 5%;
